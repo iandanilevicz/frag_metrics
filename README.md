@@ -15,3 +15,6 @@ analyze_MC
 Danilevicz, I.M., van Hees, V., van der Heide, F. et al. Measures of fragmentation of rest activity patterns: mathematical properties and interpretability based on accelerometer real life data. 
 BMC Med Res Methodol 24, 132 (2024). https://doi.org/10.1186/s12874-024-02255-w 
 
+Danilevicz, I.M., Vidil, S., Landré, B. et al. Reliable measures of rest-activity rhythm fragmentation: how many days are needed?. 
+Eur Rev Aging Phys Act 21, 29 (2024). https://doi.org/10.1186/s11556-024-00364-5
+
